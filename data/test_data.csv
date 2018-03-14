@@ -1,0 +1,7 @@
+--
+-- These are lines which I want to skip.
+--
+id,income,education
+C13,100,12
+C14,200,12
+C15,800,16
